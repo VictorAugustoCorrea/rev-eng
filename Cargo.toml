@@ -1,0 +1,6 @@
+[package]
+name = "RemoteRun"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
